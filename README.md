@@ -11,7 +11,7 @@ To get to source code after you loaded the game you press escape key.
 
 This version has combat similar to for the frog the bell tolls but same ruleset, the main goal here is to get as much treasure as possible before you die and fusions are random.
 
-Due to problems with the Tic-80 site I cannot publish the game on there barring people from playing it on there in their browsers.
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted_Web/index.html">Play Game in Browser Here</a>
 
 <h3>Both of these links take you to The_Game_Of_Trusters Video Game adaptation</h3>
 
