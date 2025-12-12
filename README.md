@@ -1,0 +1,2 @@
+# The_Game_Of_Trusters_Video_Game_Adaptation_Compacted
+Compacted version of The_Game_Of_Trusters_Video_Game for the Tic-80
